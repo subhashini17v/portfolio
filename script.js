@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
             technologies: "Java, HTML, CSS",
             image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&w=800&q=80",
             github:"https://github.com/subhashini17v/sems.git",
-            demo:"https://subhashini17v.github.io/sems/"
+            demo:"http://sems.ct.ws/frontend/login.html/"
         },
         {
             title: "Study Timer (Hackathon Project)",
